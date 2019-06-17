@@ -1,0 +1,74 @@
+C:\Users\Administrator\Desktop\Login\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Login\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Login\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login1\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login1\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login1\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Login1\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Login1\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login1\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login2\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login2\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login2\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Login2\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Login2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Login2\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login2\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login1\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\37792_000\Desktop\LoginY\DAL\bin\Debug\DAL.dll
+C:\Users\37792_000\Desktop\LoginY\DAL\bin\Debug\DAL.pdb
+C:\Users\37792_000\Desktop\LoginY\DAL\bin\Debug\Model.dll
+C:\Users\37792_000\Desktop\LoginY\DAL\bin\Debug\Model.pdb
+C:\Users\37792_000\Desktop\LoginY\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\37792_000\Desktop\LoginY\DAL\obj\Debug\DAL.dll
+C:\Users\37792_000\Desktop\LoginY\DAL\obj\Debug\DAL.pdb
+C:\Users\aaa\Desktop\Loginz\DAL\bin\Debug\DAL.dll
+C:\Users\aaa\Desktop\Loginz\DAL\bin\Debug\DAL.pdb
+C:\Users\aaa\Desktop\Loginz\DAL\bin\Debug\Model.dll
+C:\Users\aaa\Desktop\Loginz\DAL\bin\Debug\Model.pdb
+C:\Users\aaa\Desktop\Loginz\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\aaa\Desktop\Loginz\DAL\obj\Debug\DAL.dll
+C:\Users\aaa\Desktop\Loginz\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Loginz1\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Loginz1\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Loginz1\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Loginz1\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Loginz1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Loginz1\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Loginz1\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\1\Login1\DAL\bin\Debug\DAL.dll
+C:\1\Login1\DAL\bin\Debug\DAL.pdb
+C:\1\Login1\DAL\bin\Debug\Model.dll
+C:\1\Login1\DAL\bin\Debug\Model.pdb
+C:\1\Login1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\1\Login1\DAL\obj\Debug\DAL.dll
+C:\1\Login1\DAL\obj\Debug\DAL.pdb
+G:\study\web\Book System\DAL\bin\Debug\DAL.dll
+G:\study\web\Book System\DAL\bin\Debug\DAL.pdb
+G:\study\web\Book System\DAL\bin\Debug\Model.dll
+G:\study\web\Book System\DAL\bin\Debug\Model.pdb
+G:\study\web\Book System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\study\web\Book System\DAL\obj\Debug\DAL.dll
+G:\study\web\Book System\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Book System\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Book System\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Book System\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Book System\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Book System\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Book System\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Book System\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Book System\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Book System\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\net\Book System\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\net\Book System\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\net\Book System\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\net\Book System\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\net\Book System\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\net\Book System\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\net\Book System\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\net\Book System\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\net\Book System\DAL\obj\Debug\DAL.pdb

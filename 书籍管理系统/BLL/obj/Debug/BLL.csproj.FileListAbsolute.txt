@@ -1,0 +1,94 @@
+C:\Users\Administrator\Desktop\Login1\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Login1\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Login1\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login1\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Login1\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login1\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Login1\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Login1\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Login2\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Login2\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Login2\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login2\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Login2\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login2\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Login2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Login2\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Login2\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Login\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Login\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Login\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Login\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Login\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Login\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Login\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Login\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Login1\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\37792_000\Desktop\LoginY\BLL\bin\Debug\BLL.dll
+C:\Users\37792_000\Desktop\LoginY\BLL\bin\Debug\BLL.pdb
+C:\Users\37792_000\Desktop\LoginY\BLL\bin\Debug\DAL.dll
+C:\Users\37792_000\Desktop\LoginY\BLL\bin\Debug\Model.dll
+C:\Users\37792_000\Desktop\LoginY\BLL\bin\Debug\DAL.pdb
+C:\Users\37792_000\Desktop\LoginY\BLL\bin\Debug\Model.pdb
+C:\Users\37792_000\Desktop\LoginY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\37792_000\Desktop\LoginY\BLL\obj\Debug\BLL.dll
+C:\Users\37792_000\Desktop\LoginY\BLL\obj\Debug\BLL.pdb
+C:\Users\aaa\Desktop\Loginz\BLL\bin\Debug\BLL.dll
+C:\Users\aaa\Desktop\Loginz\BLL\bin\Debug\BLL.pdb
+C:\Users\aaa\Desktop\Loginz\BLL\bin\Debug\DAL.dll
+C:\Users\aaa\Desktop\Loginz\BLL\bin\Debug\Model.dll
+C:\Users\aaa\Desktop\Loginz\BLL\bin\Debug\DAL.pdb
+C:\Users\aaa\Desktop\Loginz\BLL\bin\Debug\Model.pdb
+C:\Users\aaa\Desktop\Loginz\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aaa\Desktop\Loginz\BLL\obj\Debug\BLL.dll
+C:\Users\aaa\Desktop\Loginz\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Loginz1\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Loginz1\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Loginz1\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Loginz1\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Loginz1\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Loginz1\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Loginz1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Loginz1\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Loginz1\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Login\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\1\Login1\BLL\bin\Debug\BLL.dll
+C:\1\Login1\BLL\bin\Debug\BLL.pdb
+C:\1\Login1\BLL\bin\Debug\DAL.dll
+C:\1\Login1\BLL\bin\Debug\Model.dll
+C:\1\Login1\BLL\bin\Debug\DAL.pdb
+C:\1\Login1\BLL\bin\Debug\Model.pdb
+C:\1\Login1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\1\Login1\BLL\obj\Debug\BLL.dll
+C:\1\Login1\BLL\obj\Debug\BLL.pdb
+G:\study\web\Book System\BLL\bin\Debug\BLL.dll
+G:\study\web\Book System\BLL\bin\Debug\BLL.pdb
+G:\study\web\Book System\BLL\bin\Debug\DAL.dll
+G:\study\web\Book System\BLL\bin\Debug\Model.dll
+G:\study\web\Book System\BLL\bin\Debug\DAL.pdb
+G:\study\web\Book System\BLL\bin\Debug\Model.pdb
+G:\study\web\Book System\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\study\web\Book System\BLL\obj\Debug\BLL.dll
+G:\study\web\Book System\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Book System\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Book System\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Book System\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Book System\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Book System\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Book System\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Book System\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Book System\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Book System\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Book System\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Book System\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\net\Book System\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\net\Book System\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\net\Book System\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\net\Book System\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\net\Book System\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\net\Book System\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\net\Book System\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\net\Book System\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\net\Book System\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\net\Book System\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\net\Book System\BLL\obj\Debug\BLL.pdb
