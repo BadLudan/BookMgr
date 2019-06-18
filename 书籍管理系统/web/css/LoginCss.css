@@ -1,0 +1,243 @@
+﻿.trCls
+{
+	margin: 0 0;
+	width: 80%;
+	font-size: x-large;
+	border: 1px solide #45A8DF;
+	background-color: #45A8DF;
+}
+.NameCls
+{
+	width: 150px;
+	margin: 10px 10px;
+}
+#greet
+{
+    margin: 50px 50px 50px 25px;
+    width: 955px;
+    height: 500px;
+    background-image: url('../image/21.jpg');
+}
+#zhuce_panel
+{
+	width: 500px;
+	height: 400px;
+	margin: 0px 40%;
+	font-size: large;
+}
+#login_panel
+{
+	width: 320px;
+	height:250px;
+	border: 3px solid #cccccc;
+	margin: 75px 30%;
+	background-color: #FFFFFF;
+	position: absolute;
+}
+#zhuce_panel
+{
+	width: 600px;
+	height: 350px;
+	margin: 75px 40%;
+	font-size: large;
+}
+.login_text
+{
+ color:Black;
+ width:100px;
+ outline:none;
+ border:0px none;
+}
+#title_panel
+{
+	color: #000000;
+	margin: 10px 50px;
+	font-size: x-large;
+	font-family: 'Adobe 黑体 Std R';
+}
+.userTxt_panel
+{
+	margin: 20px;
+	border:2px solid #444444;	
+	width:200px;
+	padding:10px;
+	outline:none;
+}
+#loginBut_panel
+{
+	margin:10px 30px;
+}
+#top_Image
+{
+    width: 100%;
+    height: 50px;
+    background-image: url('../image/TopImage.jpg');
+    background-repeat: repeat-x;
+}
+#top_Text
+{
+	margin: auto 15%;
+	font-size: small;
+	color: #999999;
+}
+#top_Image p a			/*登录字体特效*/
+{
+	text-decoration: none;
+	color: #999999;
+}
+#top_Image p a:hover   /*鼠标经过登录时颜色变化*/
+{
+	color:Blue;
+}
+#seek_Text
+{
+	margin: 10px 100px;
+	border: 2px solid #45A8DF;
+	width: 255px;
+	height:35px;
+	outline: none;
+	padding:1px;
+
+}
+.seek_text2
+{
+	width: 150px;
+	height: 30px;
+	font-size: medium;
+	position: absolute;
+}
+
+.seel_Btn
+{
+	margin:3px 0 3px 150px;
+	position:absolute;
+	top: 90px;
+	left: 466px;
+}
+#home_GPS
+{
+	background-color: #0000FF;
+	width:100%;
+	height:50px;
+	margin:0 50px;
+}
+#contend_panel
+{
+	width: 900px;
+	height: 400px;
+	margin: 0 160px;
+	position: absolute;
+	top: 213px;
+	left: 153px;
+}
+.itemText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-weight: normal;
+	color: #333333;
+	padding-bottom: 5px;
+	text-indent: 3px;
+	line-height: 1.3em;
+}
+.itemName
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-weight: bold;
+	color: #333333;
+	padding-bottom: 5px;
+	text-indent: 3px;
+	line-height: 1.3em;
+}
+
+/*******************************************************************/
+body {
+	background: #F2F2F2;	
+	font: 12px/1.5 Verdana,'宋体',tahoma, Srial, helvetica, sans-serif;
+	margin:0;
+	padding:0;
+}
+
+a {
+	font-size:12px;
+	color:#0F83DB;
+	text-decoration:none;
+}
+
+#header a:hover,#content p a:hover,#footer a:hover{
+	text-decoration:underline;
+}
+
+#header{
+	width:100%;
+	background: #666;
+	border-bottom:1px solid #FFF;
+	overflow:hidden;
+	height:32px;
+}
+
+#header_nav{
+	width:800px;
+	margin: 0px auto;
+	padding: 6px 0px;
+}
+
+#header a{
+	line-height:12px;
+	color: #FFF;
+}
+
+#header .top_home{
+	border-right: 1px solid #FFF;
+	padding-right: 6px;
+	margin-right: 2px;
+}
+
+.fleft{ display: inline; float:left;}
+
+.fright{ display: inline; float:right;}
+
+#content,#footer{
+	width: 760px;
+	margin: 50px auto;
+	margin-bottom:0;
+	padding:20px 20px 40px;
+	background: #FFF;	
+	border: 1px solid #CCC;
+	border-bottom:none;
+}
+
+#content h1 {
+	margin: 0; color: #F60;
+}
+
+hr {
+	border: none;
+	height: 1px; line-height: 1px;
+	background: #CCC;	
+	margin-bottom: 20px;
+	padding: 0;
+}
+
+p {
+	margin: 0;	
+	padding: 7px 0;
+}
+
+#footer{
+	width:780px;
+	padding:3px 10px;
+	margin: 0px auto;
+	border: 1px solid #CCC;
+	border-top:none;
+	overflow:hidden;
+}
+
+#footer .fleft,#footer .fleft a{
+	font:bold 9px/20px Verdana, Geneva, sans-serif;
+	color:#AAA;
+}
+
+#footer a{ font-weight:bold;color:#AAA; text-decoration:underline;}
+#footer a:hover{ color:#F80;}
